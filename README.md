@@ -2,8 +2,8 @@
 
 ###### VERSION 1.0.0
 
-User authentication in web developemen is used to authorized and 
-restrict users to certain pages in a web appplication.
+User authentication in web developement is used to authorized and 
+restrict users to certain pages in a web application.
 
 ## REGISTERATION SYSTEM
 
